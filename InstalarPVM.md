@@ -298,5 +298,3 @@ En la primera terminal (donde está el proyecto), navega al directorio donde se 
    ```
 
 ---
-
-Este es el proceso completo para instalar, compilar y ejecutar un programa utilizando PVM en Ubuntu 18.04. Si tienes alguna pregunta o necesitas más detalles sobre algún paso, no dudes en preguntar.
