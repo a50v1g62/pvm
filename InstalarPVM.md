@@ -1,6 +1,6 @@
 # Manual de Instalación y Ejecución de PVM en Ubuntu 18.04
 
-Este manual proporciona una guía paso a paso para instalar y configurar PVM (Parallel Virtual Machine) en un sistema Ubuntu 18.04. Además, se incluye un ejemplo de código que utiliza PVM para ejecutar tareas paralelas. Al final, aprenderás cómo compilar y ejecutar un programa de ejemplo con PVM.
+Este manual proporciona una guía paso a paso para instalar y configurar PVM (Parallel Virtual Machine) en un sistema Ubuntu 18.04. Además, se incluye un ejemplo de código que utiliza PVM para ejecutar tareas paralelas.
 
 ---
 
