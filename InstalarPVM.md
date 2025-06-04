@@ -4,7 +4,7 @@
 
 Te invitamos a visitar nuestro manual detallado donde encontrarás una guía paso a paso, instrucciones claras y ejemplos de código para que puedas implementar procesamiento paralelo de forma sencilla.
 
-👉 [Accede al manual completo aquí](https://code.agustinavila.com/manual-de-instalacion-y-ejecucion-de-pvm-en-ubuntu-18-04/)
+👉 [Accede al manual completo aquí](https://code.agustinavila.com/)
 
 Este recurso es ideal para desarrolladores, estudiantes y profesionales que buscan adentrarse en la programación paralela usando PVM en Linux.
 
